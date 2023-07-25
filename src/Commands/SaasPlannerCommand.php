@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Mprince2k18\SaasPlanner\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class SaasPlannerCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'saas-planner';
 
     public $description = 'My command';
 
